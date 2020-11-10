@@ -1,2 +1,3 @@
 # ElfhirDev.github.io
-My dev blog ?
+
+[My dev blog](https://elfhirdev.github.io/)
